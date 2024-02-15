@@ -3,17 +3,23 @@
 
 - Edit the file classifyTrangles.test.js and add new tests as mentioned in the comments of the existing test cases.
 
-- You need to add at least 20 new test cases to the test file.
+- You need to add at least 20 new test cases to the test file and upload the classifyTriangle.js  in myCourses.
 
 - Add comments for each test describing what is the purpose of adding the test case.
 
 - Run the test cases and share the testcases file along with the screenshot of the output of the test.
 
 ## Running test
-To run the Unit tests you have added to classifyTriangle.js file:
+- Add a new Codespaces and the workflow will automatically install Nodejs to the environment.
+- To run the Unit tests you have added to classifyTriangle.js file:
 
 ```
 npm test
+```
+
+- in case you bump into an issue, install the packages using through terminal in Codespaces:
+```
+npm install
 ```
 
 
